@@ -1,5 +1,6 @@
 <h1 align="center"> Visual Studio Code - Extensions </h1>
 
+#### <p> Here I brought a list of some of my VSCode configurations and extensions, making them available in case anyone is interested <p>
 
 - Auto Rename Tag
 - Bluloco Dark Theme
@@ -25,3 +26,5 @@
 - Symbols
 - Tailwind CSS IntelliSense
 - XML Tools
+
+### [Link to Import](https://vscode.dev/profile/github/153158917b1bb6c45275e7fb7fb7ffd6)
